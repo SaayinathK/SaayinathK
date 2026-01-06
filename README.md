@@ -1,12 +1,14 @@
 <!-- HEADER SECTION -->
 <h1 align="center">Hi, I'm Saayinath 👋</h1>
 <p align="center">
-  Software Engineering Undergraduate | MERN Stack Developer | Mobile App Developer
+  <strong>Software Engineering Undergraduate | UI/UX Designer | Full-Stack & Mobile App Developer</strong>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/saayinath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfoliosaayi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="https://github.com/SaayinathK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:k.saayinath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+94742953063"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -14,14 +16,14 @@
 <!-- ABOUT ME SECTION -->
 <h2>👨‍💻 About Me</h2>
 <p>
-I'm a passionate 3rd Year Software Engineering Undergraduate at SLIIT with hands-on experience in full-stack development. Currently working as a Software Engineering Intern, I specialize in the MERN stack and .NET development while continuously exploring cloud technologies and AI integration.
+I'm a passionate Software Engineering undergraduate at <strong>SLIIT</strong> with hands-on experience in <strong>UI/UX design, mobile app development, and full-stack web development</strong>. I specialize in building scalable, responsive applications using React.js, Node.js, Kotlin, Flutter, and Android Studio, with strong experience in REST APIs, database integration, and agile workflows.
 </p>
 
-- 🎓 **BSc (Hons) in Information Technology** – SLIIT  
-- 💼 **Software Engineering Intern** – MERN Stack & .NET Development  
-- 🌱 **Currently learning:** Spring Boot, React Native, Advanced .NET, AI Integration, Cloud Deployment (AWS/Azure)  
-- 💡 **Interests:** Clean Architecture, System Design, UI/UX, Mobile Development  
-- 📍 **Location:** Colombo, Sri Lanka  
+- 🎓 **BSc (Hons) Software Engineering** – SLIIT (CGPA 3.06)  
+- 💼 **Admin Associate (Contract)** – R.R. Donnelley, Colombo  
+- 🌱 **Currently learning:** Spring Boot, AI Integration, Cloud Deployment (AWS/Azure), Advanced React Native  
+- 💡 **Interests:** UI/UX Design, Clean Architecture, Mobile & Web Development  
+- 📍 **Location:** Dehiwala, Sri Lanka  
 
 ---
 
@@ -43,13 +45,14 @@ I'm a passionate 3rd Year Software Engineering Undergraduate at SLIIT with hands
 
 **Mobile Development:**  
 <img src="https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=kotlin&logoColor=white" />  
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black" />  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 **Databases:**  
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 **Tools & Platforms:**  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
@@ -63,28 +66,34 @@ I'm a passionate 3rd Year Software Engineering Undergraduate at SLIIT with hands
 <!-- PROJECTS -->
 <h2>📂 Featured Projects</h2>
 
-### 🤖 Smart Accounting Assistant
-AI-powered accounting system for businesses with intelligent financial insights  
-**Tech:** React, Node.js, MongoDB, Express, AI Integration  
-**Features:** Automated bookkeeping, financial analytics, intelligent report generation, real-time insights  
+### 🌱 Healio – Youth Mental Health App
+Cross-platform mobile app with AI-assisted mood tracking & emergency alerts  
+**Tech:** React Native, Firebase, NLP, Figma  
+**Features:** End-to-end SDLC, Double Diamond UX, Agile Sprints, User Journeys  
 [View Project →](#)
 
-### 💰 CashLeaf - Personal Finance Tracker
-Comprehensive mobile application for personal finance management  
-**Tech:** Kotlin, Android Studio, Room Database  
-**Features:** Expense tracking, budget planning, financial goals, spending analytics  
+### 💰 FinMate – Personal Finance Tracker
+Android app for managing income, expenses, loans & budgets  
+**Tech:** Kotlin, Android Studio, MVVM, RoomDB  
+**Features:** Analytics dashboards, category insights, Excel (.xlsx) import/export  
 [View Project →](#)
 
-### 🎂 Nithuja Cakes Portfolio
-Professional bakery portfolio website with custom cake ordering system  
-**Tech:** React, CSS3, EmailJS  
-**Features:** Product gallery, custom cake orders, responsive design  
+### 🖥️ Dynamic Portfolio Management System
+Full-stack web application with admin dashboard and modular content management  
+**Tech:** Next.js, React.js, REST APIs  
+**Features:** CRUD operations, scalable architecture, responsive UI  
 [View Project →](#)
 
-### 🎬 Movie Booking System
-Cinema reservation and management system  
-**Tech:** PHP, MySQL, JavaScript  
-**Features:** Seat selection, payment integration, admin panel, booking history  
+### ♻️ RecyLink – Smart Waste Management
+Backend dashboards & services for waste bin monitoring  
+**Tech:** Java, SpringBoot, RESTful APIs, UML, Testing  
+**Features:** SOLID principles, clean architecture, workflow automation  
+[View Project →](#)
+
+### 🚜 AGROW – Agriculture Marketplace & Learning App
+Flutter app with marketplace & learning modules  
+**Tech:** Flutter, Firebase, Figma  
+**Features:** Role-based auth, product management, community Q&A  
 [View Project →](#)
 
 ---
@@ -92,13 +101,9 @@ Cinema reservation and management system
 <!-- GITHUB STATS -->
 <h2>📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHub&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHub&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaayinathK&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaayinathK&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-
 
 ---
 
@@ -106,5 +111,5 @@ Cinema reservation and management system
 > "First, solve the problem. Then, write the code." - John Johnson
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+build+amazing+things+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+build+amazing+things+together!;UI/UX+|+Mobile+|+Full-Stack" />
 </p>
