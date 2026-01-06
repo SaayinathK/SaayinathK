@@ -2,6 +2,16 @@
 <h1 align="center">Hi, I'm Saayinath 👋</h1>
 <p align="center">
   Software Engineering Undergraduate | MERN Stack Developer | Mobile App Developer
+
+  <!-- CONNECT -->
+<h2>📫 Let's Connect</h2>
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://github.com/YourGitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a> |
@@ -99,14 +109,7 @@ Cinema reservation and management system
 
 ---
 
-<!-- CONNECT -->
-<h2>📫 Let's Connect</h2>
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-  <a href="https://github.com/YourGitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 ---
 
