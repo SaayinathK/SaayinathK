@@ -2,14 +2,39 @@
 <h1 align="center">Hi, I'm Saayinath 👋</h1>
 <p align="center">
   <strong>Software Engineering Undergraduate | UI/UX Designer | Full-Stack & Mobile App Developer</strong>
-</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/saayinath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfoliosaayi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-  <a href="https://github.com/SaayinathK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:k.saayinath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+94742953063"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/saayinath" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://portfoliosaayi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-1E90FF?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/SaayinathK" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:k.saayinath@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
